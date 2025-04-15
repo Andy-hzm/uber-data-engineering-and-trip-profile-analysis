@@ -8,7 +8,7 @@ This project focuses on analyzing Uber trip data through structured data modelin
 
 ## 📊 Full Presentation
 
-[🔗 View Full Project Presentation]((https://docs.google.com/presentation/d/1gGlAbT1fTDWmQ-VLGAt07vkp7robAF4FsxANWBjASqY/edit?usp=sharing)
+[🔗 View Full Project Presentation](https://docs.google.com/presentation/d/1gGlAbT1fTDWmQ-VLGAt07vkp7robAF4FsxANWBjASqY/edit?usp=sharing)
 
 ---
 
