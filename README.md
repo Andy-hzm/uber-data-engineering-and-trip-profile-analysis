@@ -27,6 +27,7 @@ This project focuses on analyzing Uber trip data through structured data modelin
 ## 👤 Trip Profiles
 
 ![image](https://github.com/user-attachments/assets/3abe2f1a-ab06-4906-8c11-e229f94cd525)
+![image](https://github.com/user-attachments/assets/01da70c4-0dd0-4da7-9eda-e0ba8d7d5f88)
 
 ---
 
